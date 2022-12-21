@@ -9,4 +9,4 @@
 
 ### Задание 3
 ![Docker-1](https://github.com/EvgenyMyznikov/Prometheus-hw2/blob/main/img/Prometheus_hw2_all_targets.png?raw=true)
-![Docker-2](https://github.com/EvgenyMyznikov/Prometheus-hw2/blob/main/img/Prometheus_hw2_alrtmgr.png?raw=true)
+![Docker-2](https://github.com/EvgenyMyznikov/Prometheus-hw2/blob/main/img/Prometheus_hw2_docker_metrics.png?raw=true)
